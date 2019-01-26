@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrew Clark on Xuhang Ying</title>
+    <link>/authors/andrew-clark/</link>
+    <description>Recent content in Andrew Clark on Xuhang Ying</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Jan 2019 22:07:20 -0800</lastBuildDate>
+    
+	<atom:link href="/authors/andrew-clark/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Shape of the Cloak: Formal Analysis of Clock Skew-Based Intrusion Detection System in Controller Area Networks</title>
+      <link>/publication/2019-tifs/</link>
+      <pubDate>Fri, 11 Jan 2019 22:07:20 -0800</pubDate>
+      
+      <guid>/publication/2019-tifs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloaking the clock: emulating clock skew in Controller Area Networks</title>
+      <link>/publication/2018-iccps/</link>
+      <pubDate>Wed, 11 Apr 2018 22:07:20 -0800</pubDate>
+      
+      <guid>/publication/2018-iccps/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

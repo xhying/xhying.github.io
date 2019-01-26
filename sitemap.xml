@@ -4,8 +4,16 @@
     
     <url>
     
-      <loc>/post/</loc>
-      <lastmod>2017-01-01T00:00:00-08:00</lastmod>
+      <loc>/publication/2019-tifs/</loc>
+      <lastmod>2019-01-11T22:07:20-08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/2019-iccps/</loc>
+      <lastmod>2019-01-11T22:07:20-08:00</lastmod>
     </url>
     
   
@@ -13,6 +21,78 @@
     <url>
     
       <loc>/publication/</loc>
+      <lastmod>2019-01-01T00:00:00-08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/2018-escar/</loc>
+      <lastmod>2018-11-06T22:07:20-08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/2018-elsevier/</loc>
+      <lastmod>2018-10-11T22:07:20-08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/2018-twc/</loc>
+      <lastmod>2018-07-31T22:07:20-08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/2018-iccps/</loc>
+      <lastmod>2018-04-11T22:07:20-08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/2017-tist/</loc>
+      <lastmod>2017-10-11T22:07:20-08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/2017-pimrc/</loc>
+      <lastmod>2017-10-08T22:07:20-08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/2017-tccn/</loc>
+      <lastmod>2017-05-05T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/2017-dyspan/</loc>
+      <lastmod>2017-03-06T22:07:20-08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/</loc>
       <lastmod>2017-01-01T00:00:00-08:00</lastmod>
     </url>
     
@@ -28,6 +108,38 @@
     
     <url>
     
+      <loc>/publication/2016-globecom/</loc>
+      <lastmod>2016-12-04T22:07:20-08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/2015-dyspan/</loc>
+      <lastmod>2015-09-25T22:07:20-08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/2015-comsnets/</loc>
+      <lastmod>2015-01-06T22:07:20-08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/2013-mobicom/</loc>
+      <lastmod>2013-09-25T22:07:20-08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/author/admin/</loc>
     </url>
     
@@ -35,8 +147,35 @@
     
     <url>
     
-      <loc>/</loc>
-      <lastmod>2017-10-15T00:00:00-07:00</lastmod>
+      <loc>/publication_types/1/</loc>
+      <lastmod>2019-01-11T22:07:20-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication_types/2/</loc>
+      <lastmod>2019-01-11T22:07:20-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication_types/6/</loc>
+      <lastmod>2018-10-11T22:07:20-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/andrew-clark/</loc>
+      <lastmod>2019-01-11T22:07:20-08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -53,6 +192,7 @@
     <url>
     
       <loc>/authors/</loc>
+      <lastmod>2019-01-11T22:07:20-08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -68,7 +208,143 @@
     
     <url>
     
+      <loc>/authors/chang-wook-kim/</loc>
+      <lastmod>2015-01-06T22:07:20-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/farzad-hessar/</loc>
+      <lastmod>2018-10-11T22:07:20-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/giuseppe-bernieri/</loc>
+      <lastmod>2019-01-11T22:07:20-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/guanglin-zhang/</loc>
+      <lastmod>2017-10-11T22:07:20-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/jincheng-zhang/</loc>
+      <lastmod>2017-10-11T22:07:20-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/lichao-yan/</loc>
+      <lastmod>2017-10-11T22:07:20-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/linda-bushnell/</loc>
+      <lastmod>2019-01-11T22:07:20-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/mauro-conti/</loc>
+      <lastmod>2019-01-11T22:07:20-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/milind-m.-buddhikot/</loc>
+      <lastmod>2018-07-31T22:07:20-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/milind-m.-buddhikot/</loc>
+      <lastmod>2017-03-06T22:07:20-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/minghua-chen/</loc>
+      <lastmod>2017-10-11T22:07:20-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/publication_types/</loc>
+      <lastmod>2019-01-11T22:07:20-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/radha-poovendran/</loc>
+      <lastmod>2019-01-11T22:07:20-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/ranveer-chandra/</loc>
+      <lastmod>2017-10-11T22:07:20-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/sang-uk-sagong/</loc>
+      <lastmod>2019-01-11T22:07:20-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/sumit-roy/</loc>
+      <lastmod>2018-10-11T22:07:20-08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -77,6 +353,33 @@
     <url>
     
       <loc>/tags/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/</loc>
+      <lastmod>2017-10-15T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/xuhang-ying/</loc>
+      <lastmod>2019-01-11T22:07:20-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/yu-chen/</loc>
+      <lastmod>2017-10-11T22:07:20-08:00</lastmod>
       <priority>0</priority>
     </url>
     

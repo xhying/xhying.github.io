@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Xuhang Ying</title>
+    <link>/publication_types/2/</link>
+    <description>Recent content in 2 on Xuhang Ying</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Jan 2019 22:07:20 -0800</lastBuildDate>
+    
+	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Shape of the Cloak: Formal Analysis of Clock Skew-Based Intrusion Detection System in Controller Area Networks</title>
+      <link>/publication/2019-tifs/</link>
+      <pubDate>Fri, 11 Jan 2019 22:07:20 -0800</pubDate>
+      
+      <guid>/publication/2019-tifs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SAS-Assisted Coexistence-Aware Dynamic Channel Assignment in CBRS Band</title>
+      <link>/publication/2018-twc/</link>
+      <pubDate>Tue, 31 Jul 2018 22:07:20 -0800</pubDate>
+      
+      <guid>/publication/2018-twc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring Indoor White Spaces in Metropolises</title>
+      <link>/publication/2017-tist/</link>
+      <pubDate>Wed, 11 Oct 2017 22:07:20 -0800</pubDate>
+      
+      <guid>/publication/2017-tist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pricing Mechanisms for Crowd-Sensed Spatial-Statistics-Based Radio Mapping</title>
+      <link>/publication/2017-tccn/</link>
+      <pubDate>Fri, 05 May 2017 00:00:00 -0700</pubDate>
+      
+      <guid>/publication/2017-tccn/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

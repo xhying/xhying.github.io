@@ -1,15 +1,141 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Academic</title>
+    <title>Publications on Xuhang Ying</title>
     <link>/publication/</link>
-    <description>Recent content in Publications on Academic</description>
+    <description>Recent content in Publications on Xuhang Ying</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0800</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 -0800</lastBuildDate>
     
 	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Shape of the Cloak: Formal Analysis of Clock Skew-Based Intrusion Detection System in Controller Area Networks</title>
+      <link>/publication/2019-tifs/</link>
+      <pubDate>Fri, 11 Jan 2019 22:07:20 -0800</pubDate>
+      
+      <guid>/publication/2019-tifs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TACAN: Transmitter Authentication through Covert Channels in Controller Area Networks</title>
+      <link>/publication/2019-iccps/</link>
+      <pubDate>Fri, 11 Jan 2019 22:07:20 -0800</pubDate>
+      
+      <guid>/publication/2019-iccps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring Attack Surfaces of Voltage-Based Intrusion Detection Systems in Controller Area Networks</title>
+      <link>/publication/2018-escar/</link>
+      <pubDate>Tue, 06 Nov 2018 22:07:20 -0800</pubDate>
+      
+      <guid>/publication/2018-escar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Indoor-Outdoor TV White and Gray Space Availability: A U.S. Case Study</title>
+      <link>/publication/2018-elsevier/</link>
+      <pubDate>Thu, 11 Oct 2018 22:07:20 -0800</pubDate>
+      
+      <guid>/publication/2018-elsevier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SAS-Assisted Coexistence-Aware Dynamic Channel Assignment in CBRS Band</title>
+      <link>/publication/2018-twc/</link>
+      <pubDate>Tue, 31 Jul 2018 22:07:20 -0800</pubDate>
+      
+      <guid>/publication/2018-twc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloaking the clock: emulating clock skew in Controller Area Networks</title>
+      <link>/publication/2018-iccps/</link>
+      <pubDate>Wed, 11 Apr 2018 22:07:20 -0800</pubDate>
+      
+      <guid>/publication/2018-iccps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring Indoor White Spaces in Metropolises</title>
+      <link>/publication/2017-tist/</link>
+      <pubDate>Wed, 11 Oct 2017 22:07:20 -0800</pubDate>
+      
+      <guid>/publication/2017-tist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting LTE-U Duty Cycling Misbehavior for Fair Sharing with Wi-Fi in Shared Bands</title>
+      <link>/publication/2017-pimrc/</link>
+      <pubDate>Sun, 08 Oct 2017 22:07:20 -0800</pubDate>
+      
+      <guid>/publication/2017-pimrc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pricing Mechanisms for Crowd-Sensed Spatial-Statistics-Based Radio Mapping</title>
+      <link>/publication/2017-tccn/</link>
+      <pubDate>Fri, 05 May 2017 00:00:00 -0700</pubDate>
+      
+      <guid>/publication/2017-tccn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coexistence-aware dynamic channel allocation for 3.5 GHz shared spectrum systems</title>
+      <link>/publication/2017-dyspan/</link>
+      <pubDate>Mon, 06 Mar 2017 22:07:20 -0800</pubDate>
+      
+      <guid>/publication/2017-dyspan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pricing Mechanism for Quality-Based Radio Mapping via Crowdsourcing</title>
+      <link>/publication/2016-globecom/</link>
+      <pubDate>Sun, 04 Dec 2016 22:07:20 -0800</pubDate>
+      
+      <guid>/publication/2016-globecom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incentivizing crowdsourcing for radio environment mapping with statistical interpolation</title>
+      <link>/publication/2015-dyspan/</link>
+      <pubDate>Fri, 25 Sep 2015 22:07:20 -0800</pubDate>
+      
+      <guid>/publication/2015-dyspan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revisiting TV Coverage Estimation with Measurement-based Statistical Interpolation</title>
+      <link>/publication/2015-comsnets/</link>
+      <pubDate>Tue, 06 Jan 2015 22:07:20 -0800</pubDate>
+      
+      <guid>/publication/2015-comsnets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring Indoor White Spaces in Metropolises</title>
+      <link>/publication/2013-mobicom/</link>
+      <pubDate>Wed, 25 Sep 2013 22:07:20 -0800</pubDate>
+      
+      <guid>/publication/2013-mobicom/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

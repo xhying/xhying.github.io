@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on Xuhang Ying</title>
+    <link>/publication_types/1/</link>
+    <description>Recent content in 1 on Xuhang Ying</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Jan 2019 22:07:20 -0800</lastBuildDate>
+    
+	<atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>TACAN: Transmitter Authentication through Covert Channels in Controller Area Networks</title>
+      <link>/publication/2019-iccps/</link>
+      <pubDate>Fri, 11 Jan 2019 22:07:20 -0800</pubDate>
+      
+      <guid>/publication/2019-iccps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring Attack Surfaces of Voltage-Based Intrusion Detection Systems in Controller Area Networks</title>
+      <link>/publication/2018-escar/</link>
+      <pubDate>Tue, 06 Nov 2018 22:07:20 -0800</pubDate>
+      
+      <guid>/publication/2018-escar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloaking the clock: emulating clock skew in Controller Area Networks</title>
+      <link>/publication/2018-iccps/</link>
+      <pubDate>Wed, 11 Apr 2018 22:07:20 -0800</pubDate>
+      
+      <guid>/publication/2018-iccps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting LTE-U Duty Cycling Misbehavior for Fair Sharing with Wi-Fi in Shared Bands</title>
+      <link>/publication/2017-pimrc/</link>
+      <pubDate>Sun, 08 Oct 2017 22:07:20 -0800</pubDate>
+      
+      <guid>/publication/2017-pimrc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coexistence-aware dynamic channel allocation for 3.5 GHz shared spectrum systems</title>
+      <link>/publication/2017-dyspan/</link>
+      <pubDate>Mon, 06 Mar 2017 22:07:20 -0800</pubDate>
+      
+      <guid>/publication/2017-dyspan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pricing Mechanism for Quality-Based Radio Mapping via Crowdsourcing</title>
+      <link>/publication/2016-globecom/</link>
+      <pubDate>Sun, 04 Dec 2016 22:07:20 -0800</pubDate>
+      
+      <guid>/publication/2016-globecom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incentivizing crowdsourcing for radio environment mapping with statistical interpolation</title>
+      <link>/publication/2015-dyspan/</link>
+      <pubDate>Fri, 25 Sep 2015 22:07:20 -0800</pubDate>
+      
+      <guid>/publication/2015-dyspan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revisiting TV Coverage Estimation with Measurement-based Statistical Interpolation</title>
+      <link>/publication/2015-comsnets/</link>
+      <pubDate>Tue, 06 Jan 2015 22:07:20 -0800</pubDate>
+      
+      <guid>/publication/2015-comsnets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring Indoor White Spaces in Metropolises</title>
+      <link>/publication/2013-mobicom/</link>
+      <pubDate>Wed, 25 Sep 2013 22:07:20 -0800</pubDate>
+      
+      <guid>/publication/2013-mobicom/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

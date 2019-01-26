@@ -1,14 +1,177 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Academic</title>
+    <title>Authors on Xuhang Ying</title>
     <link>/authors/</link>
-    <description>Recent content in Authors on Academic</description>
+    <description>Recent content in Authors on Xuhang Ying</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 11 Jan 2019 22:07:20 -0800</lastBuildDate>
     
 	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Andrew Clark</title>
+      <link>/authors/andrew-clark/</link>
+      <pubDate>Fri, 11 Jan 2019 22:07:20 -0800</pubDate>
+      
+      <guid>/authors/andrew-clark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chang Wook Kim</title>
+      <link>/authors/chang-wook-kim/</link>
+      <pubDate>Tue, 06 Jan 2015 22:07:20 -0800</pubDate>
+      
+      <guid>/authors/chang-wook-kim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Farzad Hessar</title>
+      <link>/authors/farzad-hessar/</link>
+      <pubDate>Thu, 11 Oct 2018 22:07:20 -0800</pubDate>
+      
+      <guid>/authors/farzad-hessar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Giuseppe Bernieri</title>
+      <link>/authors/giuseppe-bernieri/</link>
+      <pubDate>Fri, 11 Jan 2019 22:07:20 -0800</pubDate>
+      
+      <guid>/authors/giuseppe-bernieri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guanglin Zhang</title>
+      <link>/authors/guanglin-zhang/</link>
+      <pubDate>Wed, 11 Oct 2017 22:07:20 -0800</pubDate>
+      
+      <guid>/authors/guanglin-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jincheng Zhang</title>
+      <link>/authors/jincheng-zhang/</link>
+      <pubDate>Wed, 11 Oct 2017 22:07:20 -0800</pubDate>
+      
+      <guid>/authors/jincheng-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lichao Yan</title>
+      <link>/authors/lichao-yan/</link>
+      <pubDate>Wed, 11 Oct 2017 22:07:20 -0800</pubDate>
+      
+      <guid>/authors/lichao-yan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linda Bushnell</title>
+      <link>/authors/linda-bushnell/</link>
+      <pubDate>Fri, 11 Jan 2019 22:07:20 -0800</pubDate>
+      
+      <guid>/authors/linda-bushnell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mauro Conti</title>
+      <link>/authors/mauro-conti/</link>
+      <pubDate>Fri, 11 Jan 2019 22:07:20 -0800</pubDate>
+      
+      <guid>/authors/mauro-conti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Milind M. Buddhikot</title>
+      <link>/authors/milind-m.-buddhikot/</link>
+      <pubDate>Tue, 31 Jul 2018 22:07:20 -0800</pubDate>
+      
+      <guid>/authors/milind-m.-buddhikot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Milind M. Buddhikot </title>
+      <link>/authors/milind-m.-buddhikot/</link>
+      <pubDate>Mon, 06 Mar 2017 22:07:20 -0800</pubDate>
+      
+      <guid>/authors/milind-m.-buddhikot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Minghua Chen</title>
+      <link>/authors/minghua-chen/</link>
+      <pubDate>Wed, 11 Oct 2017 22:07:20 -0800</pubDate>
+      
+      <guid>/authors/minghua-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radha Poovendran</title>
+      <link>/authors/radha-poovendran/</link>
+      <pubDate>Fri, 11 Jan 2019 22:07:20 -0800</pubDate>
+      
+      <guid>/authors/radha-poovendran/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ranveer Chandra</title>
+      <link>/authors/ranveer-chandra/</link>
+      <pubDate>Wed, 11 Oct 2017 22:07:20 -0800</pubDate>
+      
+      <guid>/authors/ranveer-chandra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sang Uk Sagong</title>
+      <link>/authors/sang-uk-sagong/</link>
+      <pubDate>Fri, 11 Jan 2019 22:07:20 -0800</pubDate>
+      
+      <guid>/authors/sang-uk-sagong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sumit Roy</title>
+      <link>/authors/sumit-roy/</link>
+      <pubDate>Thu, 11 Oct 2018 22:07:20 -0800</pubDate>
+      
+      <guid>/authors/sumit-roy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xuhang Ying</title>
+      <link>/authors/xuhang-ying/</link>
+      <pubDate>Fri, 11 Jan 2019 22:07:20 -0800</pubDate>
+      
+      <guid>/authors/xuhang-ying/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yu Chen</title>
+      <link>/authors/yu-chen/</link>
+      <pubDate>Wed, 11 Oct 2017 22:07:20 -0800</pubDate>
+      
+      <guid>/authors/yu-chen/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

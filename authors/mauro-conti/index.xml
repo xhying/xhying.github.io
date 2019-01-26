@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mauro Conti on Xuhang Ying</title>
+    <link>/authors/mauro-conti/</link>
+    <description>Recent content in Mauro Conti on Xuhang Ying</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Jan 2019 22:07:20 -0800</lastBuildDate>
+    
+	<atom:link href="/authors/mauro-conti/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>TACAN: Transmitter Authentication through Covert Channels in Controller Area Networks</title>
+      <link>/publication/2019-iccps/</link>
+      <pubDate>Fri, 11 Jan 2019 22:07:20 -0800</pubDate>
+      
+      <guid>/publication/2019-iccps/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

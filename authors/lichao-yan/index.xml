@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lichao Yan on Xuhang Ying</title>
+    <link>/authors/lichao-yan/</link>
+    <description>Recent content in Lichao Yan on Xuhang Ying</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Oct 2017 22:07:20 -0800</lastBuildDate>
+    
+	<atom:link href="/authors/lichao-yan/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Exploring Indoor White Spaces in Metropolises</title>
+      <link>/publication/2017-tist/</link>
+      <pubDate>Wed, 11 Oct 2017 22:07:20 -0800</pubDate>
+      
+      <guid>/publication/2017-tist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring Indoor White Spaces in Metropolises</title>
+      <link>/publication/2013-mobicom/</link>
+      <pubDate>Wed, 25 Sep 2013 22:07:20 -0800</pubDate>
+      
+      <guid>/publication/2013-mobicom/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
